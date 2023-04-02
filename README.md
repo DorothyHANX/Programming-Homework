@@ -3,6 +3,8 @@
 # How \#OscarsSoWhite changed the Academy Awards  
 *By Sophie Long*
 
+![The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 **The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
 
 With nominees like Everything Everywhere All at Once and Black Panther: Wakanda Forever, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
