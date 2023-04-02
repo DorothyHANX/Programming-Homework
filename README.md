@@ -29,7 +29,7 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 
 *To read more please click [BBC News Pages :globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
 
-## Asian Oscar Winners
+## List of Asian Oscar Winners
 |Award|Year|Name|Nationality|Born|Descent|
 |:---|:---:|:---|:---|:---|:---|
 |Best Actress|2022|Michelle Yeoh|Malaysia|Malaysia|China|
