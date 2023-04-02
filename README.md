@@ -10,9 +10,9 @@ DorothyHAN_Programming_Homework (week 10)
 
 With nominees like Everything Everywhere All at Once and Black Panther: Wakanda Forever, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
 
-That is when the hashtag #OscarsSoWhite - started by activist and writer April Reign - began to trend, highlighting the fact that out of 20 actors nominated that year, none were people of colour.  
+That is when the hashtag `#OscarsSoWhite` - started by activist and writer April Reign - began to trend, highlighting the fact that out of 20 actors nominated that year, none were people of colour.  
 
-Recent research published by the Annenberg Inclusion Initiative, a think tank run out of the University of Southern California (USC), shows that in the eight years leading up to the #OscarsSoWhite protests, just 8% of Oscar nominees were people of colour.  
+Recent research published by the Annenberg Inclusion Initiative, a think tank run out of the University of Southern California (USC), shows that in the eight years leading up to the `#OscarsSoWhite` protests, just 8% of Oscar nominees were people of colour.  
 
 **Has the Oscars really faced up to its race problem?**  
 
