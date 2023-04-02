@@ -1,11 +1,11 @@
 DorothyHAN_Programming_Homework (week 10)  
 
 # How \#OscarsSoWhite changed the Academy Awards  
-***By Sophie Long:pencil:***
+By ***Sophie Long :pencil:***
 
 ![The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience.](image_oscar.png)
 > The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience
-
+ 
 **The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
 
 With nominees like `Everything Everywhere All at Once` and `Black Panther: Wakanda Forever`, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
@@ -27,7 +27,11 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 
 > Angela Bassett is nominated for her second Oscar for her role in Black Panther: Wakanda Forever  
 
+<div align="center">
 *To read more please click [BBC News Pages :globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
+</div>
+
+ 
 
 ## List of Asian Oscar Winners
 |Award|Year|Name|Nationality|Born|Descent|
@@ -47,3 +51,5 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 - *List of Asian Academy Award winners and nominees [(Link)](https://en.wikipedia.org/wiki/List_of_Asian_Academy_Award_winners_and_nominees).*  
 - *‘Everything Everywhere’ actor's SAG speech goes viral for making Hollywood contend with racist past [(Link)](https://www.nbcnews.com/news/asian-america/everything-everywhere-actors-sag-speech-goes-viral-making-hollywood-co-rcna72460).*
 - *Oscars (Still) So White? 2023 Academy Awards Continue to Lack Representation [(Link)](https://news.wttw.com/2023/03/11/oscars-still-so-white-2023-academy-awards-continue-lack-representation).*  
+
+
