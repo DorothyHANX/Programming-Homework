@@ -1,9 +1,9 @@
 #### Programming-Homework (week 10)  
 
 # How \#OscarsSoWhite changed the Academy Awards  
-*By Sophie Long*
+*By Sophie Long:pencil:*
 
-![The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience.](https://github.com/DorothyHANX/ProgrammingHomework/blob/4664fdce8013e96dd646fa8a3cfe434bc79165b1/image_oscar.png)
+![The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience.](image_oscar.png)
 
 **The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
 
@@ -19,19 +19,15 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 
 "I think that there's cause for optimism, and some good news, which we don't often have when it comes to the entertainment industry," she told the BBC.  
 
-*To read more please click [News Pages](https://www.bbc.com/news/world-us-canada-64883399).*
-
-
-
-
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://ichef.bbci.co.uk/news/976/cpsprodpb/D158/production/_128929535_gettyimages-1469879292.jpg.webp">
- <source media="(prefers-color-scheme: light)" srcset="https://ichef.bbci.co.uk/news/976/cpsprodpb/D158/production/_128929535_gettyimages-1469879292.jpg.webp">
- <img alt="YOUR-ALT-TEXT" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/D158/production/_128929535_gettyimages-1469879292.jpg.webp">
-</picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://ichef.bbci.co.uk/news/976/cpsprodpb/8338/production/_128929533_gettyimages-1436968094.jpg.webp">
+ <img alt="YOUR-ALT-TEXT" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/8338/production/_128929533_gettyimages-1436968094.jpg.webp">
+</picture>  
+
+*To read more please click [BBC News Pages:globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
 
 
-##Asian Oscar Winners
+# Asian Oscar Winners
 |Award|Year|Name|Nationality|Born|Descent|
 |:---|:---:|:---|:---|:---|:---|
 |Best Actress|2022|Michelle Yeoh|Malaysia|Malaysia|China|
