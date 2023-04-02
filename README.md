@@ -1,9 +1,10 @@
-#### Programming-Homework (week 10)  
+DorothyHAN_Programming_Homework (week 10)  
 
 # How \#OscarsSoWhite changed the Academy Awards  
-*By Sophie Long:pencil:*
+***By Sophie Long:pencil:***
 
 ![The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience.](image_oscar.png)
+> The film Everything Everywhere All at Once - with 11 Oscar nominations - has been praised for its diverse cast and unique depiction of the Asian-American experience
 
 **The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
 
@@ -24,10 +25,11 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
  <img alt="YOUR-ALT-TEXT" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/8338/production/_128929533_gettyimages-1436968094.jpg.webp">
 </picture>  
 
-*To read more please click [BBC News Pages:globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
+> Angela Bassett is nominated for her second Oscar for her role in Black Panther: Wakanda Forever  
 
+*To read more please click [BBC News Pages :globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
 
-# Asian Oscar Winners
+## Asian Oscar Winners
 |Award|Year|Name|Nationality|Born|Descent|
 |:---|:---:|:---|:---|:---|:---|
 |Best Actress|2022|Michelle Yeoh|Malaysia|Malaysia|China|
@@ -40,3 +42,6 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 |Best Director|2019|Bong Joon-ho|South Korea|South Korea|South Korea|
 |Best Director|2020|Chloé Zhao|China|China|China|
 |Best Director|2022|Daniel Kwan|USA|USA|China|
+  
+### Related Resources  
+List of Asian Academy Award winners and nominees
