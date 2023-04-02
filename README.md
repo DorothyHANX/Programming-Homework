@@ -8,7 +8,7 @@ DorothyHAN_Programming_Homework (week 10)
 
 **The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
 
-With nominees like Everything Everywhere All at Once and Black Panther: Wakanda Forever, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
+With nominees like `Everything Everywhere All at Once` and `Black Panther: Wakanda Forever`, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
 
 That is when the hashtag `#OscarsSoWhite` - started by activist and writer April Reign - began to trend, highlighting the fact that out of 20 actors nominated that year, none were people of colour.  
 
@@ -31,7 +31,7 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 
 ## List of Asian Oscar Winners
 |Award|Year|Name|Nationality|Born|Descent|
-|:---|:---:|:---|:---|:---|:---|
+|:---|:---:|:---:|:---:|:---:|:---:|
 |Best Actress|2022|Michelle Yeoh|Malaysia|Malaysia|China|
 |Best Supporting Actor|1984|Haing S. Ngor|USA|Cambodia|China|
 |Best Supporting Actor|2022|Ke Huy Quan|USA|Vietnam|China|
