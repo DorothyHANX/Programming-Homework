@@ -1,5 +1,27 @@
-# Programming-Homework
-Programming-Homework-week 10
+#### Programming-Homework (week 10)  
+
+# How \#OscarsSoWhite changed the Academy Awards  
+*By Sophie Long*
+
+**The Academy of Motion Pictures remains overwhelmingly male and white - but there has been some change since #OscarsSoWhite started trending eight years ago. The BBC speaks to some Hollywood insiders and this year's Oscar nominees about the steps that have been taken - and the road still ahead.**  
+
+With nominees like Everything Everywhere All at Once and Black Panther: Wakanda Forever, this year's Academy Awards will highlight the stellar work of diverse casts, directors and crews. But in 2015, the picture looked bleak.  
+
+That is when the hashtag #OscarsSoWhite - started by activist and writer April Reign - began to trend, highlighting the fact that out of 20 actors nominated that year, none were people of colour.  
+
+Recent research published by the Annenberg Inclusion Initiative, a think tank run out of the University of Southern California (USC), shows that in the eight years leading up to the #OscarsSoWhite protests, just 8% of Oscar nominees were people of colour.  
+
+**Has the Oscars really faced up to its race problem?**  
+
+But since then, there has been some change, says Dr Stacy L Smith, who led the research efforts at USC. In the eight years since the hashtag kicked off a firestorm, the number of nominees of colour has grown to 17%.  
+
+"I think that there's cause for optimism, and some good news, which we don't often have when it comes to the entertainment industry," she told the BBC.  
+
+*To read more please click [News Pages](https://www.bbc.com/news/world-us-canada-64883399).*
+
+
+
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://ichef.bbci.co.uk/news/976/cpsprodpb/D158/production/_128929535_gettyimages-1469879292.jpg.webp">
  <source media="(prefers-color-scheme: light)" srcset="https://ichef.bbci.co.uk/news/976/cpsprodpb/D158/production/_128929535_gettyimages-1469879292.jpg.webp">
