@@ -44,4 +44,6 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 |Best Director|2022|Daniel Kwan|USA|USA|China|
   
 ### Related Resources  
-List of Asian Academy Award winners and nominees
+- *List of Asian Academy Award winners and nominees [(Link)](https://en.wikipedia.org/wiki/List_of_Asian_Academy_Award_winners_and_nominees).*  
+- *‘Everything Everywhere’ actor's SAG speech goes viral for making Hollywood contend with racist past [(Link)](https://www.nbcnews.com/news/asian-america/everything-everywhere-actors-sag-speech-goes-viral-making-hollywood-co-rcna72460).*
+- *Oscars (Still) So White? 2023 Academy Awards Continue to Lack Representation [(Link)](https://news.wttw.com/2023/03/11/oscars-still-so-white-2023-academy-awards-continue-lack-representation).*  
