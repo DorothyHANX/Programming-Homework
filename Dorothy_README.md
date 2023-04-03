@@ -28,7 +28,7 @@ But since then, there has been some change, says Dr Stacy L Smith, who led the r
 > Angela Bassett is nominated for her second Oscar for her role in Black Panther: Wakanda Forever  
 
 <div align="center">
-*To read more please click [BBC News Pages :globe_with_meridians:](https://www.bbc.com/news/world-us-canada-64883399)*
+To read more please click [BBC News Pages]:globe_with_meridians:(https://www.bbc.com/news/world-us-canada-64883399)
 </div>
 
  
